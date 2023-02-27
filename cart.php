@@ -12,7 +12,7 @@
     width: 1450px;
     margin: 0 auto;
     border: 5px solid #99FFCC;
-    padding: 15px;
+    padding: 50px;
 
     height:auto;
 }
